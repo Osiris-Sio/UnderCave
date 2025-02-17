@@ -1,6 +1,6 @@
 # UnderCave
 
-(Itch.io [https://osiris-sio.itch.io/undercave])
+(Itch.io)[https://osiris-sio.itch.io/undercave]
 
 ## English :
 
