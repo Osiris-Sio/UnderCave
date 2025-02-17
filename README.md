@@ -8,8 +8,6 @@ Welcome to UnderCave, a thrilling game in which you must go on an adventure to f
 
 Why shouldn't you let yourself tempted by the adventure and try UnderCave?
 
-------------------------------------------------------
-
 ## Français :
 
 Ce jeu a été développé en 5 jours lors d'une SAÉ Jeu (Situation d'Apprentissage et d'Évaluation) et codé en C.
@@ -18,10 +16,8 @@ Bienvenue dans UnderCave, un jeu palpitant dans lequel vous devez partir à l'av
 
 Pourquoi ne pas se laisser tenter par l'aventure et essayer UnderCave ?
 
-------------------------------------------------------
-
 Autors :
+- Osiris Sio  (Programmer) (Louis AMEDRO)
+- Lirei (Screenwriter)
 
-Osiris Sio  (Programmer) (Louis AMEDRO)
-Lirei (Screenwriter)
 licence CC BY SA
