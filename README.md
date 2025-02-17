@@ -1,6 +1,6 @@
 # UnderCave
 
-##English :
+#English :
 
 This game was developed in 5 days during a LES Jeu (Learning and Evaluation Situation) and coded in C.
 
@@ -10,7 +10,7 @@ Why shouldn't you let yourself tempted by the adventure and try UnderCave?
 
 ------------------------------------------------------
 
-##Français :
+#Français :
 
 Ce jeu a été développé en 5 jours lors d'une SAÉ Jeu (Situation d'Apprentissage et d'Évaluation) et codé en C.
 
