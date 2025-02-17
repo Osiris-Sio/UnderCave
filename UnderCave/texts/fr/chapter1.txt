@@ -1,0 +1,106 @@
+Chaque héros du village doit partir à l'aventure dès l'âge de 18 ans, afin de trouver des ressources pour le village. Souhaitez-vous y aller ? 
+	1. oui 
+	2. non 
+Vous savez que si vous n'y allez pas, tu seras donné à manger aux dragons n'est-ce pas ? 
+	1. Tant pis 
+	2. Non je vais y aller au final 
+Game over, vous auriez dû dire oui… 
+Après avoir changé d'avis, vous partez de votre village afin de réaliser la quête. 
+Maintenant parti depuis 8h, vous cherchez une auberge. Il se fait tard mais vous ne trouvez rien, mis à part une grotte sombre. 
+Pour y rentrer, vous avez deux choix, descendre des longs escaliers ou glisser sur une pente ? 
+	1. escaliers 
+	2. pente 
+Les escaliers étant anciens, vous trébuchez et perdez un petit nombre de PV. 
+Vous glissez sereinement jusqu'en bas de la pente. 
+Une fois en bas, vous vous retrouvez face à une porte gigantesque, éclairée par des torches. 
+Vous l'ouvrez et découvrez une salle contenant 3 portes 1 coffre et 1 pancarte. 
+Sur la pancarte, on peut lire : 
+	" Bienvenue dans la cave de la mort, à chaque étage se trouve des escaliers pour s'enfoncer 
+	encore plus profondément dans la cave. Dans ce coffre vous trouverez quelque chose d'utile pour votre exploration. " 
+Souhaitez-vous ouvrir le coffre ? 
+	1. oui 
+	2. non 
+Vous obtenez 20G ainsi qu'une Potion de Vie. 
+Vous avez le choix entre les trois portes, une à gauche, une autre au milieu et une dernière à droite. Laquelle souhaitez-vous prendre ? 
+	1. gauche 
+	2. milieu 
+	3. droite 
+Vous êtes face à un monstre, un Cyclope. Un coffre se trouve derrière lui. 
+Vous l'avez vaincu et obtenez dans le coffre une Potion de Puissance. 
+Vous revenez dans la pièce aux trois portes. 
+Vous trouvez dans cette pièce, un marchand qui vous propose une Potion de Vie contre 20G. Souhaitez-vous acheter cette Potion ? 
+	1. oui 
+	2. non 
+Vous obtenez une Potion de Vie. 
+Vous n'avez pas assez d'argent. 
+Dans cette pièce se trouve les escaliers vers l'étage suivant, souhaitez-vous descendre et progresser dans la grotte ? 
+	1. oui 
+	2. non 
+Étage suivant… 
+Vous retournez dans la salle avec 3 portes. 
+Vous avez déjà été voir cette salle, la porte s'est fermée comme par magie ! 
+
+
+* Chaque héros du village doit partir à l'aventure dès l'âge de 18 ans, afin de trouver des ressources pour le village. Souhaitez-vous y aller ? 
+1. oui 
+2. non 
+	(si non)
+	* Vous savez que si vous n'y allez pas, tu seras donné à manger aux dragons n'est-ce pas ? 
+	1. Tant pis 
+	2. Non je vais y aller au final 
+
+		(si tant pis)
+		* Game over, vous auriez dû dire oui… 
+
+		(si oui au final)
+		* Après avoir changé d'avis, vous partez de votre village afin de réaliser la quête. 
+
+* Maintenant parti depuis 8h, vous cherchez une auberge. Il se fait tard mais vous ne trouvez rien, mis à part une grotte sombre. Pour y rentrer, vous avez deux choix, descendre des longs escaliers ou glisser sur une pente ? 
+1. escaliers 
+2. pente  
+	
+	(si escaliers)
+	* Les escaliers étant anciens, vous trébuchez et perdez un petit nombre de PV. 
+	
+	(si pente)
+	* Vous glissez sereinement jusqu'en bas de la pente. 
+
+* Une fois en bas, vous vous retrouvez face à une porte gigantesque, éclairée par des torches. Vous l'ouvrez et découvrez une salle contenant 3 portes 1 coffre et 1 pancarte. Sur la pancarte, on peut lire : "Bienvenue dans la cave de la mort, à chaque étage se trouve des escaliers pour s'enfoncer encore plus profondément dans la cave. Dans ce coffre vous trouverez quelque chose d'utile pour votre exploration." Souhaitez-vous ouvrir le coffre ? 
+1. oui 
+2. non 
+	(si coffre ouvert)
+	* Vous obtenez 20G ainsi qu'une Potion de Vie.
+	 
+* Vous avez le choix entre les trois portes, une à gauche, une autre au milieu et une dernière à droite. Laquelle souhaitez-vous prendre ? 
+1. gauche 
+2. milieu 
+3. droite 
+	(si porte gauche)
+	* Vous êtes face à un monstre, un Cyclope. Un coffre se trouve derrière lui.
+		
+		(si monstre vaincu) 
+		* Vous l'avez vaincu et obtenez dans le coffre une Potion de Puissance. Vous revenez dans la pièce aux trois portes. 
+
+	(si porte milieu)
+	* Vous trouvez dans cette pièce, un marchand qui vous propose une Potion de Vie contre 20G. Souhaitez-vous acheter cette Potion ? 
+	1. oui 
+	2. non 
+		(si Potion achetée)
+		* Vous obtenez une Potion de Vie. 
+		
+		(si oui mais pas assez d'argent)
+		* Vous n'avez pas assez d'argent.
+	
+	(si porte gauche)
+	* Dans cette pièce se trouve les escaliers vers l'étage suivant, souhaitez-vous descendre et progresser dans la grotte ? 
+	1. oui 
+	2. non 
+		
+		(si oui)
+		Étage suivant…
+
+		(si non)
+		* Vous retournez dans la salle avec 3 portes. 
+
+* Vous avez déjà été voir cette salle, la porte s'est fermée comme par magie !
+

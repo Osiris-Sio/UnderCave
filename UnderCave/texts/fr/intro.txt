@@ -1,0 +1,12 @@
+Choisir la langue / Select language :
+	1. Français
+	2. English
+Comment souhaitez vous être nommé dans le jeu ?
+Bienvenue 
+ dans l'univers grandiose d'UnderCave !
+Dans ce jeu, vous pouvez incarner 4 classes de héros différentes, chacune ayant ses avantages et ses inconvénients.
+Veuillez sélectionner votre classe entre 1 et 4 :
+	1. Prêtre (Facile)
+	2. Chevalier (Intermédiaire)
+	3. Orc (Avancé)
+	4. Mage (Difficile)

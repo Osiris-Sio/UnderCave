@@ -1,0 +1,168 @@
+There you are on the next floor. You look around you and notice three important things in the room. 
+A single door and like before, a chest with a sign next to it. You come near it to read: 
+"If you arrived here, congratulations! However, your little Journey's just starting. 
+The dangers are lurking around and you risk your own life by being here. No one ever left this place alive. 
+Again, you have a chest here, the choice to open it or not is yours again." 
+After reading this sign, what do you want to do? Open the chest or ignore it and go through the door ? 
+	1. Open the chest 
+	2. Leave the room 
+You obtained a misfortune pendant, this item forbids you from using your potions and seeing your character's features while being on that floor. 
+You head towards the door and leave the room. 
+You find yourself in a room with three doors again, one on the right, another in the middle and the last one on the right. 
+	1. Take the left door.
+	2. Take the middle door.
+	3. Take the right door.
+You find yourself in an empty room except for a mirror and a door. You go near the mirror and distinguish a ghostly shape appearing. This shape says 
+"Greetings young traveler, I can boost your damage, but only if you sacrifice some of your HP for me" Would you like to accept this offer ? 
+	1. Yes. 
+	2. No. 
+You lose half of your HP. You win 10 Attack Points. 
+You continue your path and go through the only door in the room. 
+You're now in a room with a door locked by a padlock of 4 Numbers. 
+	1. 3412
+	2. 4231
+	3. 1432
+	4. 4123
+It's not the right numbers combination, an Arrow is launched at you. You lose 10 HP. 
+You've respected the ordre of the numbers given in the chess room. A shaking is felt and the door is unlocked. You continue your journey. 
+You're now in a room with a huge door with a terrifying aura. You see a seller offering you either a Healing Potion for 20G, or a Power Potion for 30G. 
+Would you like to buy one ? 
+	1. Yes. 
+	2. No. 
+You bought a Healing Potion. 
+You bought a Power Potion. 
+You bought nothing 
+You open the door and enter the room. The Skeleton King is waiting for you on his throne. 
+You see the stairs at the back of the room. You need to beat him in order to go to next floor. 
+Congratulations ! You've defeated the Skeleton King and now you can take the stairs. You go to the next floor. 
+You got nothing to do here and go back to the three doors room. 
+This door is empty except for a chest in the middle of the room, would you like to open it ? 
+	1. Yes.
+	2. No.
+You get 30G and a Power Potion. 
+You go back to the room. 
+This room seems empty, but you notice a door located in the wall. What do you want to do to make door appear ? 
+	1. Try to remove every torches.
+	2. Try to press every tiles on the floor.
+	3. Try to push every brick of the wall.
+	4. Try to throw your shoe at the roof.
+You burnt yourself trying to remove the torches, you lose 10 HP. 
+Nothing happens. 
+After inspecting almost every wall, a brick go down by your touch and you hear a little *clic*. The door appeared, you can now continue. 
+The room is dark. After entering, the door is violently closed behind you. 
+The torches lighten up one by one to reveal at he center, a Cyclops, sitting on a pile of skulls. 
+His menacing and blood-curdling aura make you full of fear. He stands up and walks to you. You see a room behind him, where he couldn't follow you. 
+You win 25G and 2 Healing Potion. 
+Game Over… 
+You got to a chess themed room, you see giant statues looking like chess pieces. 
+ A poster is on the wall in front of you, its written : 
+"In the chess war, the bishop got saved by the knight. The queen thanked him, under the watch of the rook." 
+Behind every statue, you found numbers : 
+-> 1 behind the queen 
+-> 2 behind the rook 
+-> 3 behind the bishop 
+-> 4 behind the knight 
+You got nothing else to do in this room. You take the transporter at the back of the room, leading to the three doors room. 	
+You throw your shoe but she's falling right at you. You lose 5 HP. 
+You already went to that room, the door closed itself like magic ! 
+
+
+There you are on the next floor. You look around you and notice three important things in the room. A single door and like before, a chest with a sign next to it. You come near it to read: "If you arrived here, congratulations! However, your little Journey's just starting. The dangers are lurking around and you risk your own life by being here. No one ever left this place alive. Again, you have a chest here, the choice to open it or not is yours again. " After reading this sign, what do you want to do? Open the chest or ignore it and go through the door ?
+1. Open the chest
+2. Leave the room
+
+	(chest opened)
+	* You obtained a misfortune pendant, this item forbids you from using your potions and seeing your character's features while being on that floor.
+
+	(chest not opened)
+	* You head towards the door and leave the room. 
+
+* You find yourself in a room with three doors again, one on the right, another in the middle and the last one on the right.
+1. Take the left door.
+2. Take the middle door.
+3. Take the right door.
+
+	(left door)
+	* You find yourself in an empty room except for a mirror and a door. You go near the mirror and distinguish a ghostly shape appearing. This shape says "Greetings young traveler, I can boost your damage, but only if you sacrifice some of your HP for me" Would you like to accept this offer ?
+	1. Yes.
+	2. No.
+
+		(if yes)
+		* You lose half of your HP. You win 10 Attack Points.
+
+		(if no)
+		* You continue your path and go through the only door in the room.
+		
+			* Vous arrivez dans une salle contenant une porte fermée avec un cadenas à 4 chiffres. 
+			* You're now in a room with a door locked by a padlock of 4 Numbers.
+
+			(if chess room already explored)
+			1. 3412
+			2. 4231
+			3. 1432
+			4. 4123
+			* It's not the right numbers combination, an Arrow is launched at you. You lose 10 HP.
+			* You've respected the ordre of the numbers given in the chess room. A shaking is felt and the door is unlocked. You continue your journey.
+				
+				* Vous arrivez dans une salle avec une porte imposante à l'aura terrifiante. Vous apercevez un marchand qui vous propose d'acheter soit une Potion de Soin pour 20G, soit une Potion de Puissance pour 30G. Souhaitez-vous acheter quelque chose ? 
+				* You're now in a room with a huge door with a terrifying aura. You see a seller offering you either a Healing Potion for 20G, or a Power Potion for 30G. Would you like to buy one ?
+				1. Yes. 
+				2. No. 
+					
+					(if yes)
+					* You bought a Healing Potion. 
+					* You bought a Power Potion.
+					* You bought nothing
+					* You open the door and enter the room. The Skeleton King is waiting for you on his throne. You see the stairs at the back of the room. You need to beat him in order to go to next floor
+						(fight won)
+						* Congratulations ! You've defeated the Skeleton King and now you can take the stairs. You go to the next floor
+
+			(if chess room not explored)
+			* You got nothing to do here and go back to the three doors room.
+
+	(middle door)
+	* This door is empty except for a chest in the middle of the room, would you like to open it ?
+	1. Yes.
+	2. No.
+
+		(if chest opened)
+		* You get 30G and a Power Potion.
+
+		(if chest not opened)
+		* You go back to the room.
+
+	(right door)
+	* This room seems empty, but you notice a door located in the wall. What do you want to do to make door appear ?
+	1. Try to remove every torches.
+	2. Try to press every tiles on the floor.
+	3. Try to push every brick of the wall.
+	4. Try to throw your shoe at the roof.
+	
+		(if torches)
+		* You burnt yourself trying to remove the torches, you lose 10 HP.
+
+		(if tiles)
+		* Nothing happens 
+
+		(if bricks)
+		* Après avoir inspecté presque tous les murs, une brique s'enfonce à votre toucher et vous entendez un léger *clic*. La porte maintenant apparue, vous pouvez continuer. La pièce est sombre. Après être rentré, la porte derrière vous se ferme brutalement. Impossible de l'ouvrir. Les torches s'allument pour révéler au centre de la pièce, un Cyclope assis sur une pile de crânes. Son aura menaçante vous glace le sang. Il se lève et marche vers vous. Vous apercevez derrière lui, une autre salle où le Cyclope ne pourra pas vous suivre.
+		* After inspecting almost every wall, a brick go down by your touch and you hear a little *clic*. The door appeared, you can now continue. The room is dark. After entering, the door is violently closed behind you. The torches lighten up one by one to reveal at he center, a Cyclops, sitting on a pile of skulls. His menacing and blood-curdling aura make you full of fear. He stands up and walks to you. You see a room behind him, where he couldn't follow you.
+
+			(if fight won)
+			* You win 25G and 2 Healing Potion.
+			
+			(if dead)
+			* Game Over…
+
+			(If flee/next)
+			* You got to a chess themed room, you see giant statues looking like chess pieces. A poster is on the wall in front of you, its written : "In the chess war, the bishop got saved by the knight. The queen thanked him, under the watch of the rook." Behind every statue, you found numbers :
+-> 1 behind the queen
+-> 2 behind the rook
+-> 3 behind the bishop
+-> 4 behind the knight
+You got nothing else to do in this room. You take the transporter at the back of the room, leading to the three doors room.		
+
+		(if shoe)
+		* You throw your shoe but she's falling right at you. You lose 5 HP.
+
+* You already went to that room, the door closed itself like magic !

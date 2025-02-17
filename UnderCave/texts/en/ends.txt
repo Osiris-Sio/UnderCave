@@ -1,0 +1,26 @@
+You've defeated the Lord of Trolls. In the next room there's the covoted treasure of your village, a pile of gold and an ancient relic that belong to the ancestors of the village chiefs. 
+You come back to the village and everyone's cheering the fact you're back. You're the village savior and you're acknowledge in all the country. The seller has seen all... 
+Congratulations and thank you for playing UnderCave ! 
+You've fled from the Skeleton King and from the cave of death. That was too Dangerous for you. You come back empty-handed in the village. 
+The village chiefs are furious and decided to kill you with their own hands. "A real hero die while fighting and doesn't flee" are the last word you'll hear.
+Game Over… 
+You've fled from the Lord of Trolls and from the cave of death. That was too Dangerous for you. You come back empty-handed in the village. 
+The village chiefs are furious and decided to kill you with their own hands. "A real hero die while fighting and doesn't flee" are the last word you'll hear. 
+Game Over…
+
+
+- End number 1
+
+* You've defeated the Lord of Trolls. In the next room there's the covoted treasure of your village, a pile of gold and an ancient relic that belong to the ancestors of the village chiefs. You come back to the village and everyone's cheering the fact you're back. You're the village savior and you're acknowledge in all the country. The seller has seen all...
+Congratulations and thank you for playing UnderCave !  
+
+- End number 2
+
+* You've fled from the Skeleton King and from the cave of death. That was too Dangerous for you. You come back empty-handed in the village. The village chiefs are furious and decided to kill you with their own hands. "A real hero die while fighting and doesn't flee" are the last word you'll hear.
+Game Over…
+
+
+- End number 3
+
+* You've fled from the Lord of Trolls and from the cave of death. That was too Dangerous for you. You come back empty-handed in the village. The village chiefs are furious and decided to kill you with their own hands. "A real hero die while fighting and doesn't flee" are the last word you'll hear.
+Game Over…

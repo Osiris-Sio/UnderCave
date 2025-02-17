@@ -1,0 +1,14 @@
+You hit the 
+. He loses 
+health points ! 
+The 
+hit you, you lose 
+What do you want to do ? 
+	1. attack  
+	2. flee 
+You successfully fled ! (like a coward...) 
+You failed to flee ! 
+Cyclops 
+Skeleton King 
+Lord of Trolls  
+Game Over... 

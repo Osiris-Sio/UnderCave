@@ -1,0 +1,13 @@
+Vous arrivez à l'étage suivant et trouvez une nouvelle fois une pancarte. Cette dernière dit "Encore une fois félicitations héros, je ne pensais pas que vous arriveriez jusque là, mais c'est vos derniers instants. Ceci est le dernier étage, Vous allez faire face boss final. Bon courage et adieu."
+Après tout ce que vous avez vécu, vous n'avez pas peur et avancez avec confiance dans la salle.
+Vous rencontrez un monstre que vous n'avez jamais vu auparavant. Son aura est menaçante et vous voyez à son regard que cet ennemi est le boss de la caverne de la mort. C'est le Seigneur des Trolls. Vous n'avez pas le temps de réfléchir qu'il engage le combat.
+	(mort)
+	Game Over…
+	
+	(combat gagné) 
+	* fin 1
+		
+	(fuite) 
+	* fin 2
+
+	

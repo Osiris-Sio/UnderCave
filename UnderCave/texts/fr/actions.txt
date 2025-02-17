@@ -1,0 +1,35 @@
+0. Faire une autre action (Inventaire/Caractéristiques) 
+Que veux-tu faire ? 
+    1. Ouvrir l'inventaire à potions
+    2. Voir mes caractéristiques
+    3. Retour
+Quelle potion voulez-vous utiliser ? 
+    1. Potion de soin 
+    2. Potion de puissance
+    3. Retour
+Vous n'avez pas ce type de potion sur vous. 
+Vous avez 
+Potion de soin. 
+Potion de puissance. 
+Voulez-vous vraiment l'utiliser ?
+    1. Oui 
+    2. Non 
+Vous utilisez 
+une Potion de soin. 
+une Potion de puissance. 
+Voici vos caractéristiques :
+    Nom : 
+    Type de Héros : 
+Prêtre (Facile)
+Chevalier (Intermédiaire)
+Orc (Avancé)
+Mage (Difficile)
+    Points de Vie : 
+    Points d'Attaque : 
+    Effet Potions de Soin : 
+points de vie 
+    Effet Potions de Puissance : 
+points d'attaques pour 
+utilisation(s) 
+    Argent : 
+    1. Retour 

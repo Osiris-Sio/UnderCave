@@ -1,0 +1,12 @@
+Choisir la langue / Select language :
+	1. Français
+	2. English
+How would you like to be named in the game ?
+Welcome 
+ to the amazing world of UnderCave !
+In this game, you can play as four different hero classes, each with its own advantages and disadvantages.
+You may choose your class between 1 and 4 :
+	1. Priest (Easy)
+	2. Knight (Intermediate)
+	3. Orc (Advanced)
+	4. Mage (Hard)

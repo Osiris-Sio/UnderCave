@@ -1,0 +1,35 @@
+0. Do another action (Inventory/Features) 
+What do you want to do ? 
+    1. Open potion's inventory
+    2. See my features and stats
+    3. Back
+Which potion do you want to use ? 
+    1. Healing potion 
+    2. Power potion
+    3. Back
+You Don't have that kind of potion on you
+You have
+healing potion
+power potion
+Do you want to use it ?
+    1. Yes 
+    2. No 
+You used 
+a healing potion 
+a power potion
+Here's your features and stats :
+    Name : 
+    Hero class : 
+Priest (Easy)
+Knight (Intermediate)
+Orc (Advanced)
+Mage (Hard)
+    Health points : 
+    Damage points : 
+    Healing potion effect : 
+health points 
+    Power potion effect : 
+damage points for 
+use(s)
+    Money : 
+    1. Back 

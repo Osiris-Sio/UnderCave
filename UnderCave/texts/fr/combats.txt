@@ -1,0 +1,14 @@
+Vous attaquez le 
+. Il perd 
+points de vie ! 
+Le 
+vous attaque, vous perdez 
+Que voulez-vous faire ? 
+    1. affronter  
+    2. fuir
+Vous arrivez à fuir ! (comme un lâche...) 
+Vous n'arrivez pas à fuir ! 
+Cyclope 
+Roi Squelette 
+Seigneur des Trolls 
+Game Over... 

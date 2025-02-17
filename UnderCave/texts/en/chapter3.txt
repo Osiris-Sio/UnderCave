@@ -1,0 +1,12 @@
+You arrived at the next floor and find another sign. It's says "Congratulations again hero, i didn't think you could make it there, but this is your last moments. This is the last floor, you'll face the final boss. Good luck and Goodbye."
+After all you've faced, you Don't feel the fear and walk with confidence Inside the room.
+You meet a monster you never saw before. His aura is very menacing and you see at his sight that this ennemy is the final boss of the death cave. It's the Lord of Trolls. You don't have time to think that he engaged the fight.
+	(death)
+	Game Over…
+
+	(combat gagné)
+	* end 1
+		
+	(flee)
+	* end 2
+	

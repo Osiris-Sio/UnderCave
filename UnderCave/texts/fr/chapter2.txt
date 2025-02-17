@@ -1,0 +1,187 @@
+Vous voilà arrivé à l'étage suivant. 
+Vous observez autour de vous et notez trois éléments importants présents dans la pièce dans laquelle vous venez d'arriver. 
+Une unique porte, et encore une fois un coffre avec une pancarte. Vous vous approchez pour pouvoir la lire : 
+"Si vous avez réussi à arriver jusqu'ici, félicitations ! Mais votre petite aventure ne fait que commencer. 
+Les dangers rôdent et vous risquez votre vie ici. Personne n'est ressorti vivant. 
+De nouveau, vous avez un coffre à votre disposition, à vous de choisir de l'ouvrir ou non encore une fois." 
+Suite à cette nouvelle pancarte que souhaitez-vous faire ? Ouvrir le coffre ou ignorer et passer par la porte ? 
+	1. Ouvrir le coffre. 
+	2. Partir de la salle. 
+Vous recevez un pendentif malchanceux, cet objet vous empêche d'utiliser vos potions et de voir vos caractéristiques durant tout cet étage. 
+Vous vous dirigez vers la porte et sortez de la pièce. 
+Vous vous retrouvez une fois de plus dans une pièce possédant uniquement 3 portes, une à gauche, une autre au milieu et une dernière à droite. 
+	1. Prendre la porte à gauche. 
+	2. Prendre la porte du milieu. 
+	3. Prendre la porte à droite. 
+Vous vous retrouvez dans une pièce vide à l'exception d'un miroir et d'une porte. 
+Vous vous approchez du miroir et remarquez une forme fantomatique apparaître. Cette dernière vous dis : 
+"Bonjour jeune aventurier, je peux te booster tes dégats, à condition que tu sacrifies quelques PV pour moi" Souhaitez vous accepter son offre ? 
+	1. Oui. 
+	2. Non. 
+Vous perdez la moitié de vos Points de Vie. Vous gagnez 10 Points d'Attaque. 
+Vous l'ignorez. 
+Vous continuez et passez la seule porte présente dans la salle. 
+Vous arrivez dans une salle contenant une porte fermée avec un cadenas à 4 chiffres. Grâce aux échecs, vous savez quelle combinaison rentrer : 
+	1. 3412 
+	2. 4231 
+	3. 1432 
+	4. 4123 
+Ce n'est pas la bonne combinaison, une flèche est tiré sur vous. Vous perdez 10 Points de Vie. 
+Vous avez respecté l'ordre donné dans la précédente salle. 
+Un tremblement se fait ressentir et la porte s'ouvre. Vous continuez votre périple. 
+Vous arrivez dans une salle avec une porte imposante à l'aura terrifiante. 
+Vous apercevez un marchand qui vous propose d'acheter soit une Potion de Soin pour 20G, soit une Potion de Puissance pour 30G. 
+Souhaitez-vous acheter quelque chose ? 
+	1. Potion de Soin 
+	2. Potion de Puissance 
+	3. Rien 
+Vous avez acheté une Potion de Soin. 
+Vous avez acheté une Potion de Puissance. 
+Vous n'avez rien acheté. 
+Vous ouvrez la porte et entrez dans la pièce. Le Roi Squelette vous attends sur son trône au centre de cette pièce. 
+Vous apercevez les escaliers au fond de la pièce. Il faut le battre pour accéder à l'étage suivant. 
+Félicitations ! Vous avez vaincu le Roi Squelette et maintenant vous avez accès aux escaliers. Vous allez à l'étage suivant. 
+Vous n'avez rien à faire ici et rebroussez donc chemin dans la salle aux 3 portes. 
+Cette pièce est vide à l'exception d'un coffre au milieu de la salle, souhaitez vous l'ouvrir ? 
+	1. Oui. 
+	2. Non. 
+Vous obtenez 30G et une potion de puissance. 
+Vous retournez sur vos pas. 
+Cette salle semble vide, mais vous remarquez un emplacement de porte là où il y a un mur. 
+Que souhaitez vous faire pour faire apparaître la porte ? 
+	1. Essayer d'enlever toutes les torches. 
+	2. Essayer d'appuyer sur toutes les dalles au sol. 
+	3. Essayer d'appuyer sur toutes les briques du mur. 
+	4. Essayer de balancer sa chaussure sur le plafond. 
+Vous vous êtes brûlé en essayant d'enlever les torches, vous perdez 10 Points de Vie. 
+Aucun changement de la salle. 
+Après avoir inspecté presque tous les murs, une brique s'enfonce à votre toucher et vous entendez un léger *clic*. 
+La porte maintenant apparue, vous pouvez continuer. 
+La pièce est sombre. Après être rentré, la porte derrière vous se ferme brutalement. 
+Impossible de l'ouvrir. Les torches s'allument pour révéler au centre de la pièce, un Cyclope assis sur une pile de crânes. 
+Son aura menaçante vous glace le sang. Il se lève et marche vers vous. Vous apercevez derrière lui, une autre salle où le Cyclope ne pourra pas vous suivre. 
+Vous remportez 25G et 2 potions de soin. 
+Vous arrivez dans une salle décoré sur le thème des échecs, vous voyez des statues ressemblant aux pièces d'échecs. 
+Une affiche est accrochée sur le mur en face de vous, il y est écrit : 
+"Lors de la guerre des échecs, Le fou fut sauvé par le cavalier. La reine le remercia donc, sous le regard de la tour." 
+Derrière chaque statue, vous trouvez des chiffres : 
+-> 1 derrière la reine. 
+-> 2 derrière la tour. 
+-> 3 derrière le fou. 
+-> 4 derrière le cavalier. 
+Vous lancez votre chaussure, mais elle vous retombe dessus. Vous perdez 5 Points de Vie. 
+Vous n'avez rien d'autre à faire dans cette salle. Vous prenez le téléporteur situé au fond de la salle et vous revenez dans la salle des trois portes. 
+Game over *Conseil : utilisez intelligemment vos potions pour venir à bout des adversaires coriaces !* 
+Vous avez déjà été voir cette salle, la porte s'est fermée comme par magie ! 
+
+
+Vous voilà arrivé à l'étage suivant. Vous observez autour de vous et notez trois éléments importants présents dans la pièce dans laquelle vous venez d'arriver. Une unique porte, et encore une fois un coffre avec une pancarte. Vous vous approchez pour pouvoir la lire : "Si vous avez réussi à arriver jusqu'ici, félicitations ! Mais votre petite aventure ne fait que commencer. Les dangers rôdent et vous risquez votre vie ici. Personne n'est ressorti vivant. De nouveau, vous avez un coffre à votre disposition, à vous de choisir de l'ouvrir ou non encore une fois." Suite à cette nouvelle pancarte que souhaitez vous faire ? Ouvrir le coffre ou ignorer et passer la porte ?
+1. Ouvrir le coffre
+2. Partir de la salle
+
+	(coffre ouvert)
+	* Vous recevez un pendentif malchanceux, cet objet vous empêche d'utiliser des objets de soins durant tout cet étage.
+
+	(coffre non ouvert)
+	* Vous vous dirigez vers la porte et sortez de la pièce. 
+
+* Vous vous retrouvez une fois de plus dans une pièce possédant uniquement 3 portes, une à gauche, une autre au milieu et une dernière à droite.
+1. Prendre la porte à gauche
+2. Prendre la porte du milieu
+3. Prendre la porte à droite.
+
+	(porte de gauche)
+	* Vous vous retrouvez dans une pièce vide à l'exception d'un miroir et d'une porte. Vous vous approchez du miroir et remarquez une forme fantomatique apparaître. Cette dernière vous dis "Bonjour jeune aventurier, je peux booster tes dégats, à condition que tu sacrifies quelques PV pour moi" Souhaitez vous accepter son offre ?
+	1. Oui
+	2. Non
+
+		(si oui)
+		* Vous perdez la moitié de vos PV
+
+		(si non)
+		* Vous l'ignorez et vous continuez et passez la seule porte présente dans la salle
+		
+			* Vous continuez et passez la seule porte présente dans la salle
+
+			* Vous arrivez dans une salle contenant un tableau vide et des tuiles à placer sur le tableau
+
+			(si déjà exploré salle à droite)
+			* Vous avez respecté l'ordre donné dans l'autre salle. Un tremblement se fait ressentir et une ouverture se crée dans le mur, vous pouvez continuer votre périple.
+				
+				* Vous arrivez dans une salle avec une porte imposante à l'aura terrifiante. Vous apercevez un marchand qui vous propose d'acheter des potions de soin pour 20G ou des potions de puissance pour 30G. Souhaitez-vous acheter quelque chose ? 
+				1. oui 
+				2. non 
+					
+					(si oui)
+					* Vous avez acheté une potion de soin, il reste encore une potion de puissance.
+					* Vous avez acheté une potion de puissance, il reste encore une potion de soin.
+					* Vous avez acheté une potion de soin, le marchand n'a plus rien.
+					* Vous avez acheté une potion de puissance, le marchand n'a plus rien.
+					* Vous ouvrez la porte et entrez dans la pièce. Le Roi Squelette vous attends sur son trône au centre de la pièce. 					Vous apercevez les escaliers au fond de la pièce. Il faut le battre pour accéder à l'étage suivant.
+						(combat gagné)
+						* Félicitations ! Vous avez maintenant accès aux escaliers, souhaitez-vous les emprunter ?
+						1. Oui
+						2. Non
+							* Vous allez à l'étage suivant.
+							* Vous retournez dans la pièce avec le marchand.
+
+			(si salle pas encore explorée)
+			* Vous n'avez rien à faire ici et rebroussez donc chemin dans la salle aux 3 portes.
+
+	(porte du milieu)
+	* Cette pièce est vide à l'exception d'un coffre au milieu de la salle, souhaitez vous l'ouvrir ?
+	1. Oui
+	2. Non
+
+		(si coffre ouvert)
+		* Vous obtenez 30G et une potion de puissance
+
+		(si coffre non ouvert)
+		* Vous retournez sur vos pas
+
+	(porte de droite)
+	* Vous vous retrouvez face à 2 portes, une à gauche et une au milieu. Où souhaitez vous aller ?
+	1. Porte de gauche
+	2. Porte de droite
+
+		(porte de gauche)
+		* Cette salle semble vide, souhaitez vous l'inspecter ?
+		1. Oui
+		2. Non
+			
+			(si oui)
+			* Vous remarquez un emplacement de porte là où il y a un mur. Que souhaitez vous faire pour faire apparaître la porte ?
+			1. Essayer d'enlever toutes les torches
+			2. Essayer d'appuyer sur toutes les dalles au sol 
+			3. Essayer d'appuyer sur toutes les briques du mur
+			4. Essayer de balancer sa chaussure sur le plafond
+
+				(si 3)
+				* Après avoir inspecté presque tous les murs, une brique s'enfonce à votre toucher et vous entendez un léger *clic*. 
+				La porte maintenant apparue, vous pouvez continuer.
+					
+					* Vous arrivez dans une salle décoré sur le thème des échecs, vous voyez des statues ressemblant aux pièces d'échecs. Une affiche est accrochée sur le mur en face de vous, il y est écrit : "Lors de la guerre des échecs, Le 					fou fut sauvé par le cavalier. La reine le remercia donc, sous le regard de la tour."
+					Derrière chaque statue, vous trouvez des chiffres : 
+					- 1 derrière la reine
+					- 2 derrière la tour
+					- 3 derrière le fou
+					- 4 derrière le cavalier
+					Vous n'avez rien d'autre à faire dans cette salle et revenez sur vos pas.
+				
+				(si non 3)
+				* Aucun changement de la salle, peut être devriez vous essayer autre chose ou bien sortir d'ici…
+				1. Essayer autre chose
+				2. Sortir de la pièce
+
+		(porte de droite)
+		* La pièce est sombre. Après être rentré, la porte derrière vous se ferme brutalement. Impossible de l'ouvrir. Les torches s'allument pour 	révéler au centre de la pièce, un Cyclope assis sur une pile de crânes. Son aura menaçante vous glace le sang. Il se lève et marche vers 		vous. 
+		(combat)
+		(si combat gagné)
+		* Vous remportez 25G et 2 potions de soin.
+		La porte se déverrouille et vous revenez sur vos pas
+
+		(si combat perdu)
+		* Game over *Conseil : utilisez intelligemment vos potions pour venir à bout des adversaires coriaces !*
+		-> escaliers d'étage = checkpoint.
+	
+	

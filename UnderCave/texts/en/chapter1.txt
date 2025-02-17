@@ -1,0 +1,110 @@
+Every hero must embark on an adventure when they turn 18, to get some resources to the village. Would you like to go ? 
+	1. yes 
+	2. no 
+You know that if you don't wanna go, you'll end up being fed to the dragons right ? 
+	1. I don't care 
+	2. Ok, in fact, i'll go 
+Game over, you should have said yes… 
+After changing your mind, you leave your village to start your quest 
+Now gone for 8h, you look for a hostel nearby. It's getting late, but you found nothing, except a dark cave. 
+To go in, you got two choices, taking the long stairs or sliding down the slope ? 
+	1. stairs 
+	2. slope 
+The stairs are pretty old, so you slip and lose a little bit of HP. 
+You slide peacefully until the bottom of the slope 
+Once at the bottom, you get in front of a gigantic door, lighten up by torches. 
+You open it and there, you discover a room with three doors, one chest and one sign. 
+On the sign, we can read : 
+	"Welcome inside the cave of death, on each floor you'll find stairs leading to the next floor. 
+	In this chest, you'll find something useful for your exploration." 
+Do you want to open the chest ? 
+	1. yes 
+	2. no 
+You obtained 20G and a Healing Potion. 
+You got the choice between the three doors, one at the left, another one at the middle and the last one at the right. Which one do you want to choose ? 
+	1. left one 
+	2. middle one 
+	3. right one 
+You face a monster, a Cyclops. A chest is behind him. 
+You've beaten him and got a Power Potion in the chest. 
+You flee in the room with three doors. 
+In this room, you find a seller, who sells a Healing Potion against 20G. Would you like to go down and continue to the next floor ? 
+	1. yes 
+	2. no 
+You obtained a Healing Potion. 
+You Don't have enough money. 
+In this room, there's the stairs leading to the next floor. Would you like to go down and continue to the next floor ? 
+	1. yes 
+	2. no 
+Next floor… 
+You went back in the room. 
+You already went in this room, the door closed like magic ! 
+
+
+* Every hero must embark on an adventure when they turn 18, to get some resources to the village. Would you like to go ? 
+1. yes 
+2. no 
+
+	(if no)
+	* You know that if you don't wanna go, you'll end up being fed to the dragons right ? 
+	1. I don't care 
+	2. Ok, in fact, i'll go 
+		
+		(if still no)
+		* Game over, you should have said yes… 
+		
+		(if yes)
+		* After changing your mind, you leave your village to start your quest 
+
+* Now gone for 8h, you look for a hostel nearby. It's getting late, but you found nothing, except a dark cave. To go in, you got two choices, taking the long stairs or sliding down the slope ? 
+1. stairs 
+2. slope 
+
+	(if stairs)
+	* The stairs are pretty old, so you slip and lose a little bit of HP. 
+
+	(if slope)
+	* You slide peacefully until the bottom of the slope 
+
+* Once at the bottom, you get in front of a gigantic door, lighten up by torches. You open it and there, you discover a room with three doors, one chest and one sign. On the sign, we can read : "Welcome inside the cave of death, on each floor you'll find stairs leading to the next floor. In this chest, you'll find something useful for your exploration." Do you want to open the chest ? 
+1. yes 
+2. no 
+	(If chest opened)
+	* You obtained 20G and a Healing Potion. 
+
+* You got the choice between the three doors, one at the left, another one at the middle and the last one at the right. Which one do you want to choose ? 
+1. left one 
+2. middle one 
+3. right one 
+
+	(if left door)
+	* You face a monster, a Cyclops. A chest is behind him. 
+		
+		(if fight won)
+		* You've beaten him and got a Power Potion in the chest.
+
+		(if flee) 
+		* You flee in the room with three doors. 
+
+	(if middle door)
+	* In this room, you find a seller, who sells a Healing Potion against 20G. Would you like to go down and continue to the next floor ? 
+	1. yes 
+	2. no 
+
+		(if Potion bought)
+		* You obtained a Healing Potion.
+
+		(if yes but not enough money) 
+		* You Don't have enough money. 
+	
+	(if right door)
+	* In this room, there's the stairs leading to the next floor. Would you like to go down and continue to the next floor ? 
+	1. yes 
+	2. no 
+		
+		(if yes)
+		* Next floor…
+
+		(if no)
+		* You went back in the room. 
+* You already went in this room, the door closed like magic ! 
