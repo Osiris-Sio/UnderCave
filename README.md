@@ -16,7 +16,7 @@ Bienvenue dans UnderCave, un jeu palpitant dans lequel vous devez partir à l'av
 
 Pourquoi ne pas se laisser tenter par l'aventure et essayer UnderCave ?
 
-### Autors :
+## Autors :
 - Osiris Sio  (Programmer) (Louis AMEDRO)
 - Lirei (Screenwriter)
 
